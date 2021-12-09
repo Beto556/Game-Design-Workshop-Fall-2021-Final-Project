@@ -25,14 +25,14 @@ November 30th: Level design continues, majority of level geometry added, includi
 
 December 1st: Rifle weapon asset finished and implemented 
 
-December 2nd: Work begins on enviornment assets such as rocks and lights
+December 2nd: Work begins on environment  assets such as rocks and lights
 
-December 4th: Work continues on environemt assets
+December 4th: Work continues on environment  assets
 
-December 5th: Enviornment assets are finished and implemented 
+December 5th: Environment  assets are finished and implemented 
 
-December 6th: Visual and post-processing effects added, enviornment assets implementation begins
+December 6th: Visual and post-processing effects added, environment  assets implementation begins
 
-December 7th: Level 1 design final iteration finished, enviornmental asset implementation finishes, scene transition system added, movement issues resolved 
+December 7th: Level 1 design final iteration finished, environment  asset implementation finishes, scene transition system added, movement issues resolved 
 
 December 9th: Work begins on enemy design and implementation

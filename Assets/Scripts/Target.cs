@@ -23,9 +23,9 @@ public class Target : MonoBehaviour
 
    public void Die()
     {
-        Score.instance.AddPoint();
         Destroy(gameObject);
         GameObject explodeGO = Instantiate(explosion, explosionTransform.position, explosionTransform.rotation);
         Destroy(explodeGO, 0.1f);
+        Score.instance.AddPoint();
     }
 }

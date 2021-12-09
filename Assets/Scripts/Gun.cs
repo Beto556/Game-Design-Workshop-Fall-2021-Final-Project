@@ -10,6 +10,7 @@ public class Gun : MonoBehaviour
 
     public ParticleSystem muzzleFlash;
     public GameObject impactEffect;
+    public GameObject flashLight;
 
     private float nextTimeToFire = 0f;
 
@@ -27,6 +28,7 @@ public class Gun : MonoBehaviour
     void Shoot()
     {
         muzzleFlash.Play();
+       
 
        RaycastHit hit;
        if (Physics.Raycast(fpsCam.transform.position, fpsCam.transform.forward, out hit, range))

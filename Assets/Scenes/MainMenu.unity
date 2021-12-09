@@ -559,7 +559,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Skate or \n"
+  m_text: "Shred or \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1097f0a2a5e2c3c449f570c23c1a97f6, type: 2}
   m_sharedMaterial: {fileID: 7560922919312616426, guid: 1097f0a2a5e2c3c449f570c23c1a97f6, type: 2}
@@ -1814,8 +1814,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4285756275
-  m_fontColor: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
+    rgba: 4291151301
+  m_fontColor: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

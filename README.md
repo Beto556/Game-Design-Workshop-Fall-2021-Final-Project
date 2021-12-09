@@ -22,3 +22,17 @@ November 27th: Shotgun weapon asset is finished and implemented into game
 November 28th: Level design begins on the intended first level of the game, level geometry blocked out using the ProBuilder Unity tool.
 
 November 30th: Level design continues, majority of level geometry added, including obstacles, a start and end point, and basic enemy interactions. Lighting work begins.
+
+December 1st: Rifle weapon asset finished and implemented 
+
+December 2nd: Work begins on enviornment assets such as rocks and lights
+
+December 4th: Work continues on environemt assets
+
+December 5th: Enviornment assets are finished and implemented 
+
+December 6th: Visual and post-processing effects added, enviornment assets implementation begins
+
+December 7th: Level 1 design final iteration finished, enviornmental asset implementation finishes, scene transition system added, movement issues resolved 
+
+December 9th: Work begins on enemy design and implementation

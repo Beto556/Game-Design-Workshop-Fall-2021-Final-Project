@@ -36,3 +36,11 @@ December 6th: Visual and post-processing effects added, environment  assets impl
 December 7th: Level 1 design final iteration finished, environment  asset implementation finishes, scene transition system added, movement issues resolved 
 
 December 9th: Work begins on enemy design and implementation
+
+December 10th: Enemy modeling and animation finished, implemented into game enviornment 
+
+December 11th: Enemy scripting and interactions implemented 
+
+December 12th: Player health/death systems added
+
+December 13th: Polish added to main menu screen, final polish added to level geometry, UI, and scripts game finished and published
